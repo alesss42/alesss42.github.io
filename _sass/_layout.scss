@@ -7,11 +7,7 @@
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
-  background-color: var(--global-bg-color);
-  background-image: url("/assets/img/Soft Ocean Hues Composition Aug 08 2025.png");
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center;
+  background-color: #1a0a2e;
 
   h1,
   h2,
@@ -44,6 +40,7 @@ body.sticky-bottom-footer {
 .profile {
   img {
     width: 100%;
+    max-width: 380px;
   }
 }
 
