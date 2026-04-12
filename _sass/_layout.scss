@@ -31,9 +31,15 @@ body.sticky-bottom-footer {
 
 .container {
   max-width: v.$max-content-width;
-  background-color: rgba(255, 255, 255, 0.82);
-  border-radius: 8px;
-  padding: 1.5rem 2rem;
+}
+
+// When the about split layout is inside a container, break it out to full width
+.container:has(.split-layout) {
+  max-width: 100%;
+  width: 100%;
+  padding: 0;
+  margin-top: 0 !important;
+  background-color: transparent;
 }
 
 // Profile
