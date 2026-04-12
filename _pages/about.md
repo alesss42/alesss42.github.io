@@ -6,7 +6,7 @@ subtitle: Understanding how fine-scale ocean structure shapes transport, stratif
 
 profile:
   align: right
-  image: Ocean_piece.png
+  image: blue_ocean.png
   image_circular: false
   more_info: >
     <p>Ocean Mixing and Acoustics Lab</p>
