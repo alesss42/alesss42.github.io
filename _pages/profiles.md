@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: members of the lab or group
 nav: true
-nav_order: 7
+nav_order: 2
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -16,6 +16,7 @@ profiles:
     more_info: >
       <p>Assistant Professor, SOEST</p>
       <p>Office: MSB 304</p>
+      <p><a href="/cv/">Curriculum Vitae</a></p>
 
   # - align: left
   #   image: prof_pic.jpg
