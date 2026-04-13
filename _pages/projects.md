@@ -6,7 +6,7 @@ description: What are lab is working on right now.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
