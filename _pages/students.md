@@ -15,7 +15,7 @@ If you are interested in physical oceanography, ocean mixing, acoustics, and obs
 
 - Your CV
 - A brief description of your research interests
-- Why you want to pursue a PhD or Master's degree and why our lab is a good fit
+- Why you want to pursue a PhD or Master's degree and why you are interested in our lab
 
 Students are funded through a combination of:
 
