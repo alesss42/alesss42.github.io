@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "publications by categories in reversed chronological order.",
+  },{id: "nav-people",
+          title: "people",
+          description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/people/";
           },
         },{id: "nav-projects",
           title: "projects",
@@ -23,19 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-students",
-          title: "students",
-          description: "",
+        },{id: "nav-publications",
+          title: "publications",
+          description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/students/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -43,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "nav-life-in-academia",
           title: "life in academia",
