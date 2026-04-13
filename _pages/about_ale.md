@@ -1,0 +1,5 @@
+Alejandra "Ale" Sanchez-Rios is an upper-ocean physical oceanographer whose research focuses on the interplay between ocean mixing, stratification, and sound. Her work examines how along-isopycnal temperature–salinity variability ("spice") shapes ocean structure and influences acoustic propagation, particularly in dynamically active regions.
+
+Originally from Tijuana, Mexico, she completed her undergraduate studies at the Universidad Autónoma de Baja California (UABC), where she developed a foundation in oceanography and field-based research. Her background includes observational and analytical work across diverse ocean environments, from high-latitude systems to subtropical gyres, with experience in ship-based campaigns, autonomous platforms, and microstructure measurements.
+
+She integrates observations from Seagliders, Wirewalkers, and turbulence profilers to investigate how fine-scale variability emerges and evolves, and how it impacts larger-scale ocean dynamics. As an early-career faculty member, she is building a research program that connects physical oceanography with acoustics to improve understanding and predictability of complex ocean environments.
