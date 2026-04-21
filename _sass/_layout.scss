@@ -50,6 +50,19 @@ body.sticky-bottom-footer {
   }
 }
 
+// Projects: remove card box styling
+.projects {
+  .card {
+    background: transparent;
+    border: none;
+    box-shadow: none;
+
+    &:hover {
+      box-shadow: none;
+    }
+  }
+}
+
 // Split front-page layout
 .split-layout {
   display: flex;
