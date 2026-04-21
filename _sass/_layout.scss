@@ -50,6 +50,19 @@ body.sticky-bottom-footer {
   }
 }
 
+// News announcements: force white text
+.news-item {
+  color: white !important;
+
+  p, a, span {
+    color: white !important;
+  }
+
+  a:hover {
+    color: var(--global-theme-color) !important;
+  }
+}
+
 // Projects: remove card box styling
 .projects {
   .card {
