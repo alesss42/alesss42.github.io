@@ -44,7 +44,28 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "projects-spice-and-acoustics",
+        },{id: "post-joining-uh-mānoa-as-assistant-professor",
+        
+          title: "Joining UH Mānoa as Assistant Professor",
+        
+        description: "Excited to start a new chapter at the Department of Oceanography, SOEST.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/joining-uh-manoa/";
+          
+        },
+      },{id: "news-hilditch-paper",
+          title: 'Hilditch Paper',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-05-01-hilditch-paper/";
+            },},{id: "news-uh-manoa",
+          title: 'Uh Manoa',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-08-01-uh-manoa/";
+            },},{id: "projects-spice-and-acoustics",
           title: 'Spice and Acoustics',
           description: "How submesoscale features affect sound propagation across the spicy ocean",
           section: "Projects",handler: () => {
@@ -101,30 +122,4 @@ ninja.data = [{
         handler: () => {
           window.open("https://www.alberteinstein.com/", "_blank");
         },
-      },{
-      id: 'light-theme',
-      title: 'Change theme to light',
-      description: 'Change the theme of the site to Light',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("light");
-      },
-    },
-    {
-      id: 'dark-theme',
-      title: 'Change theme to dark',
-      description: 'Change the theme of the site to Dark',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("dark");
-      },
-    },
-    {
-      id: 'system-theme',
-      title: 'Use system default theme',
-      description: 'Change the theme of the site to System Default',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("system");
-      },
-    },];
+      },];
