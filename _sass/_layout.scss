@@ -55,8 +55,12 @@ body.sticky-bottom-footer {
   color: white !important;
 }
 
+.news a {
+  color: #a8d8ea !important;
+}
+
 .news a:hover {
-  color: var(--global-theme-color) !important;
+  color: #d0edf7 !important;
 }
 
 // Projects: remove card box styling
