@@ -51,16 +51,15 @@ body.sticky-bottom-footer {
 }
 
 // News announcements: force white text
-.news-item {
+.news table th,
+.news table td,
+.news table td p,
+.news table td a {
   color: white !important;
+}
 
-  p, a, span {
-    color: white !important;
-  }
-
-  a:hover {
-    color: var(--global-theme-color) !important;
-  }
+.news table td a:hover {
+  color: var(--global-theme-color) !important;
 }
 
 // Projects: remove card box styling
