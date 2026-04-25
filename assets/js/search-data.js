@@ -66,17 +66,22 @@ ninja.data = [{
             window.open("https://medium.com/@andras.pb/no-i-havent-published-yet-3ad2b53110fc", "_blank");
           
         },
-      },{id: "news-new-paper-out-from-jamie-hilditch-and-collaborators-excellent-work-on-warm-filaments-and-downward-heat-transport-in-the-salinity-stratified-gulf-of-mexico-read-the-paper",
-          title: 'New paper out from Jamie Hilditch and collaborators! Excellent work on warm filaments...',
-          description: "",
-          section: "News",},{id: "news-starting-as-assistant-professor-at-uh-mānoa-we-are-building-the-ocean-mixing-and-acoustics-lab-at-soest-read-more-about-our-new-lab-and-open-positions",
+      },{id: "news-starting-as-assistant-professor-at-uh-mānoa-we-are-building-the-ocean-mixing-and-acoustics-lab-at-soest-read-more-about-our-new-lab-and-open-positions",
           title: 'Starting as Assistant Professor at UH Mānoa! We are building the Ocean Mixing...',
+          description: "",
+          section: "News",},{id: "news-new-paper-out-from-jamie-hilditch-and-collaborators-excellent-work-on-warm-filaments-and-downward-heat-transport-in-the-salinity-stratified-gulf-of-mexico-read-the-paper",
+          title: 'New paper out from Jamie Hilditch and collaborators! Excellent work on warm filaments...',
           description: "",
           section: "News",},{id: "projects-spice-and-acoustics",
           title: 'Spice and Acoustics',
           description: "How submesoscale features affect sound propagation across the spicy ocean",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-eddies-and-the-transition-layer-in-hawaiʻi",
+          title: 'Eddies and the Transition Layer in Hawaiʻi',
+          description: "How mesoscale and submesoscale interactions structure the ocean between the mixed layer and the interior",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
