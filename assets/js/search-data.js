@@ -82,6 +82,11 @@ ninja.data = [{
           description: "How mesoscale and submesoscale interactions structure the ocean between the mixed layer and the interior",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-isopycnal-variability-in-spicy-regions",
+          title: 'Isopycnal Variability in Spicy Regions',
+          description: "Understanding along-isopycnal temperature–salinity variability and its role in isopycnal mixing across the global ocean",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
