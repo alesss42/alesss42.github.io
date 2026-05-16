@@ -9,30 +9,51 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "What are lab is working on right now.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "publications by categories in reversed chronological order.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+  },{id: "dropdown-spice-and-mixing",
+              title: "Spice and Mixing",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/research/spice-mixing/";
+              },
+            },{id: "dropdown-spice-and-sound",
+              title: "Spice and Sound",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/research/spice-sound/";
+              },
+            },{id: "dropdown-hawaiʻi-ocean",
+              title: "Hawaiʻi Ocean",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/research/hawaii/";
+              },
+            },{id: "dropdown-fronts-near-coast",
+              title: "Fronts Near Coast",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/research/fronts-near-coast/";
+              },
+            },{id: "dropdown-platforms-amp-partners",
+              title: "Platforms &amp; Partners",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/research/platforms/";
+              },
+            },{id: "dropdown-publications",
+              title: "Publications",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/publications/";
+              },
+            },{id: "nav-teaching-amp-students",
+          title: "teaching &amp; students",
+          description: "Courses, student opportunities, and research programs.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
