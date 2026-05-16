@@ -9,49 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "dropdown-spice-and-mixing",
-              title: "Spice and Mixing",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/research/spice-mixing/";
-              },
-            },{id: "dropdown-spice-and-sound",
-              title: "Spice and Sound",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/research/spice-sound/";
-              },
-            },{id: "dropdown-hawaiʻi-ocean",
-              title: "Hawaiʻi Ocean",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/research/hawaii/";
-              },
-            },{id: "dropdown-fronts-near-coast",
-              title: "Fronts Near Coast",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/research/fronts-near-coast/";
-              },
-            },{id: "dropdown-platforms-amp-partners",
-              title: "Platforms &amp; Partners",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/research/platforms/";
-              },
-            },{id: "dropdown-publications",
-              title: "Publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/publications/";
-              },
-            },{id: "nav-teaching-amp-students",
+  },{id: "nav-research",
+          title: "research",
+          description: "What the Ocean Mixing and Acoustics Lab is working on.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-teaching-amp-students",
           title: "teaching &amp; students",
           description: "Courses, student opportunities, and research programs.",
           section: "Navigation",
