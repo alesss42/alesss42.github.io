@@ -7,26 +7,39 @@ nav: true
 nav_order: 3
 ---
 
-## Classes & Material
+<div class="row mt-3">
 
-### OCN 312
+  <div class="col-md-4 mb-4">
+    <a href="{{ '/teaching/classes/' | relative_url }}" class="text-decoration-none">
+      <div class="card h-100 hoverable">
+        <div class="card-body">
+          <h4 class="card-title">Classes & Material</h4>
+          <p class="card-text">Course materials, schedules, and resources for classes taught in the department.</p>
+        </div>
+      </div>
+    </a>
+  </div>
 
-Course materials and schedule coming soon.
+  <div class="col-md-4 mb-4">
+    <a href="{{ '/teaching/prospective-students/' | relative_url }}" class="text-decoration-none">
+      <div class="card h-100 hoverable">
+        <div class="card-body">
+          <h4 class="card-title">Prospective Graduate Students</h4>
+          <p class="card-text">Information for students interested in joining the lab for graduate research.</p>
+        </div>
+      </div>
+    </a>
+  </div>
 
-### Biophysical Interactions
+  <div class="col-md-4 mb-4">
+    <a href="{{ '/teaching/undergraduate-research/' | relative_url }}" class="text-decoration-none">
+      <div class="card h-100 hoverable">
+        <div class="card-body">
+          <h4 class="card-title">Undergraduate Research</h4>
+          <p class="card-text">Opportunities for undergraduates to participate in hands-on ocean research.</p>
+        </div>
+      </div>
+    </a>
+  </div>
 
-Course materials and schedule coming soon.
-
----
-
-## Prospective Graduate Students
-
-We welcome inquiries from prospective graduate students interested in observational physical oceanography, autonomous platforms, ocean mixing, and acoustics. Please read about our [research areas](/research/) before reaching out to get a sense of what projects are active and where there may be opportunity to grow the work.
-
-To inquire, send an email to [alesr@hawaii.edu](mailto:alesr@hawaii.edu) with a brief description of your background and what draws you to this work.
-
----
-
-## Undergraduate Research
-
-Undergraduate students interested in hands-on ocean research are encouraged to reach out. Opportunities may include data analysis, fieldwork assistance, and independent study projects depending on availability and fit.
+</div>
