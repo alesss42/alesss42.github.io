@@ -5,6 +5,7 @@ description: How submesoscale features affect sound propagation across the spicy
 img: assets/img/Sound_spice_logo.png
 importance: 1
 category: work
+status: active
 related_publications: true
 ---
 

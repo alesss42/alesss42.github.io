@@ -63,6 +63,23 @@ body.sticky-bottom-footer {
   color: #d0edf7 !important;
 }
 
+// Project status badges
+.project-status {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 2px 10px;
+  border-radius: 20px;
+  margin-bottom: 0.5rem;
+
+  &--planning   { background: #3a3a6e; color: #a8d8ea; border: 1px solid #a8d8ea; }
+  &--active     { background: #1a4a2e; color: #7ed9a0; border: 1px solid #7ed9a0; }
+  &--analysis   { background: #4a3a1a; color: #f0c87a; border: 1px solid #f0c87a; }
+  &--published  { background: #2a1a4a; color: #c9a8ea; border: 1px solid #c9a8ea; }
+}
+
 // Projects: remove card box styling
 .projects {
   .card {

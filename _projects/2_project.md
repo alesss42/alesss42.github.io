@@ -5,17 +5,24 @@ description: How mesoscale and submesoscale interactions structure the ocean bet
 img: assets/img/Sound_spice_logo.png  # replace with project image
 importance: 2
 category: work
+status: planning
 related_publications: false
 ---
 
 ## About this project
 
-The ocean doesn't hand off cleanly from the turbulent mixed layer above to the quiet interior below. Between them sits the transition layer — a dynamically charged zone where mesoscale stirring, submesoscale instabilities, and internal waves compete to move heat, salt, and energy across density surfaces. It is poorly constrained, rarely resolved, and consequential for everything from tracer transport to acoustic propagation.
+The ocean transition layer — the region between the turbulent mixed layer and the quiescent interior — remains one of the least constrained regimes in upper ocean dynamics. Within this layer, mesoscale stirring, submesoscale instabilities, and internal waves all act to redistribute heat, salt, and energy across density surfaces. Despite its central role in controlling mixing, tracer transport, and acoustic propagation, the processes that govern it are poorly resolved in both observations and models.
 
-The Hawaiian archipelago gives us a front-row seat. The islands interrupt the North Equatorial Current and disrupt the trade winds, spawning a persistent field of lee eddies through barotropic instability. At the same time, remotely generated eddies drift in from the eastern Pacific, carrying anomalous water masses and reshaping stratification on both sides of the island chain. The result is a two-source eddy environment that structures the transition layer between 100 and 400 m depth in ways that models don't resolve and observations have only begun to capture.
+The Hawaiian archipelago is a particularly good example of a region where these processes are active and accessible. The islands intercept the North Equatorial Current and disrupt the trade winds, generating a persistent field of lee eddies. Simultaneously, remotely generated eddies propagating from the eastern Pacific modify stratification and tracer distributions throughout the archipelago. This two-source eddy environment produces a richly structured transition layer between 100 and 400 m depth that presents a clear opportunity to study cross-scale interactions under well-defined forcing conditions.
 
-We want to know where thermohaline variance transitions from stirring to dissipation, how lee eddies build submesoscale filaments along isopycnals, and whether the energy cascade runs forward to dissipation or feeds back to sustain the eddies themselves. These questions matter for tracers — and they matter for sound.
+Our work addresses three questions: where does thermohaline variance transition from stirring to dissipation, how do lee eddies structure the transition layer and generate submesoscale variability along isopycnals, and whether energy cascades forward to dissipation or feeds back to the mesoscale. These questions have direct implications for how tracers are transported and where acoustic propagation conditions are set.
 
 ## Approach
 
-We combine existing observations from HOT, PacIOOS, and NOAA glider programs with targeted fieldwork using Seagliders, Wirewalkers, and microstructure profilers aboard the R/V Kaunānā. Adaptive deployments track eddy formation events in real time. Model comparison with UH's high-resolution regional output links observed mixing scales to the spectral diagnostics that models can — and currently cannot — reproduce.
+We combine existing observations from the HOT program, PacIOOS, and NOAA glider surveys with targeted fieldwork using Seagliders, Wirewalkers, and microstructure profilers. Observations are interpreted alongside high-resolution regional model output to evaluate mixing scales and energy transfers across the mesoscale–submesoscale boundary.
+
+## Interested in joining this project?
+
+We are looking for graduate students interested in observational physical oceanography, autonomous platforms, and upper ocean dynamics. If this work sounds like a good fit, please reach out.
+
+<a href="mailto:alesr@hawaii.edu?subject=Eddies and Transition Layer Project" class="btn btn-primary">Contact Dr. Sanchez-Rios</a>
