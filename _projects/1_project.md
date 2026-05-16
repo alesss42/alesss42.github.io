@@ -6,6 +6,7 @@ img: assets/img/Sound_spice_logo.png
 importance: 1
 category: work
 status: active
+tags: [spice-mixing, spice-sound]
 related_publications: true
 ---
 

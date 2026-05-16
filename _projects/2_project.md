@@ -6,6 +6,7 @@ img: assets/img/Sound_spice_logo.png  # replace with project image
 importance: 2
 category: work
 status: planning
+tags: [hawaii-eddies]
 related_publications: false
 ---
 

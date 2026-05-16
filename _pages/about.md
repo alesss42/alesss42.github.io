@@ -29,3 +29,7 @@ latest_posts:
 We study how turbulence, stratification, and along-isopycnal variability ("spice") structure the ocean at fine scales. These processes regulate the transport of heat, salt, and biogeochemical tracers and influence how energy moves through the ocean.
 
 Our work combines autonomous observations, microstructure measurements, and theory to understand when small-scale variability matters—and how it should be represented in ocean and acoustic models.
+
+## People
+
+Meet the researchers and students in the Ocean Mixing and Acoustics Lab. [View the full team →]({{ '/about/people/' | relative_url }})
