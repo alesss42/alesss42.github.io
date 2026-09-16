@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Spice and Mixing
+title: Spice, Mixing and Sound
 permalink: /research/spice-mixing/
-description: Along-isopycnal temperature–salinity variability and its role in isopycnal mixing.
+description: Along-isopycnal temperature–salinity variability, its role in isopycnal mixing, and how it shapes acoustic propagation.
 nav: false
 filter_tag: spice-mixing
 ---
 
 <div class="projects">
-{% assign filtered = site.projects | where_exp: "item", "item.tags contains 'spice-mixing'" %}
+{% assign filtered = site.projects | where_exp: "item", "item.tags contains 'spice-mixing' or item.tags contains 'spice-sound'" %}
 {% assign sorted = filtered | sort: "importance" %}
 <div class="container">
   <div class="row row-cols-1">

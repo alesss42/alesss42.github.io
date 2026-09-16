@@ -14,7 +14,7 @@ profiles:
     content: about_ale.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p><strong>Ale</strong> | Assistant Professor</p>
+      <p class="subtitle">Ale | Assistant Professor</p>
       <p>Department of Oceanography, SOEST</p>
       <p>Office: MSB 304</p>
       <p><a href="/cv/">Curriculum Vitae</a></p>
@@ -24,6 +24,6 @@ profiles:
     content: about_alyk.md
     image_circular: false
     more_info: >
-      <p><strong>Alyk</strong> | Incoming Graduate Student</p>
+      <p class="subtitle">Alyk | Incoming Graduate Student</p>
       <p>Fall 2026</p>
 ---

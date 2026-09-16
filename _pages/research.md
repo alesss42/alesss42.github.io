@@ -13,19 +13,8 @@ nav_order: 2
     <a href="{{ '/research/spice-mixing/' | relative_url }}" class="text-decoration-none">
       <div class="card h-100 hoverable">
         <div class="card-body">
-          <h4 class="card-title">Spice and Mixing</h4>
-          <p class="card-text">Along-isopycnal temperature–salinity variability and its role in isopycnal mixing across the global ocean.</p>
-        </div>
-      </div>
-    </a>
-  </div>
-
-  <div class="col-md-6 mb-4">
-    <a href="{{ '/research/spice-sound/' | relative_url }}" class="text-decoration-none">
-      <div class="card h-100 hoverable">
-        <div class="card-body">
-          <h4 class="card-title">Spice and Sound</h4>
-          <p class="card-text">How along-isopycnal variability shapes acoustic propagation in dynamically active ocean regions.</p>
+          <h4 class="card-title">Spice, Mixing and Sound</h4>
+          <p class="card-text">Along-isopycnal temperature–salinity variability, its role in isopycnal mixing, and how it shapes acoustic propagation across the global ocean.</p>
         </div>
       </div>
     </a>
