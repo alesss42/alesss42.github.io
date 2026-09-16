@@ -7,7 +7,7 @@ importance: 3
 category: work
 status: analysis
 tags: [spice-mixing]
-related_publications: false
+related_publications: true
 ---
 
 ## About this project
@@ -17,6 +17,14 @@ In regions of the ocean where temperature and salinity vary along density surfac
 This project focuses on characterizing along-isopycnal temperature–salinity variability across spicy regions of the global ocean and understanding its role in setting isopycnal mixing rates. A central question is how this variability is generated, how it evolves as it is stirred by mesoscale and submesoscale flows, and at what scales it is ultimately dissipated. These questions are relevant not only for understanding tracer budgets but also for improving how mixing is represented in ocean models.
 
 We use a combination of observational datasets — including Argo floats, glider surveys, and shipboard measurements — to characterize spice variability across different ocean basins and dynamical regimes. Analysis focuses on identifying the dominant processes controlling along-isopycnal variance and how mixing length scales vary with large-scale forcing conditions.
+
+## Related Publications
+
+**Sanchez-Rios et al. (2024)**
+
+When the Kuroshio advects warm, salty Pacific water into the fresher South China Sea, it doesn't mix quietly — it laminates. Layer by layer, contrasting water masses interleave like pages in a book, creating a staircase of temperature and salinity that defies standard mixing recipes. We followed these interleavings with gliders, wirewalkers and microstructure profilers and found that where salt fingers and shear instability coincide, turbulent mixing runs an order of magnitude larger than predicted.
+
+{% cite sanchez-rios2024Characterization %}
 
 ## Interested in joining this project?
 
