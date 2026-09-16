@@ -18,12 +18,10 @@ profiles:
       <p>Office: MSB 304</p>
       <p><a href="/cv/">Curriculum Vitae</a></p>
 
-  # - align: left
-  #   image: prof_pic.jpg
-  #   content: 
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-  #     <p>555 your office number</p>
-  #     <p>123 your address street</p>
-  #     <p>Your City, State 12345</p>
+  - align: left
+    image: alyk_moomaw.jpg
+    content: about_alyk.md
+    image_circular: false
+    more_info: >
+      <p>Incoming Ph.D. Student, Fall 2026</p>
 ---
