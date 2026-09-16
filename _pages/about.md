@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Understanding how fine-scale ocean structure shapes transport, stratification, and acoustic variability
 
 profile:
   align: right
-  image: blue_ocean.png
+  image: ocean_sunset.png
   image_circular: false
   more_info: >
     <p>Ocean Mixing and Acoustics Lab</p>

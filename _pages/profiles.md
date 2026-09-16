@@ -1,10 +1,10 @@
 ---
 layout: profiles
 permalink: /about/people/
-title: people
+title: about
 description: members of the lab or group
-nav: false
-nav_order: 2
+nav: true
+nav_order: 1
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
